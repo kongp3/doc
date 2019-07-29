@@ -1,4 +1,4 @@
-# 后台无界面执行 chrom
+# 后台无界面执行 chrome
 
 sudo apt-get update
 sudo apt-get install libnss3-dev
